@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Thorium",
+	"Description": "Adds new Thorium resource used for alternative simple nuclear power generation",
+	"Category": "Modding",
+	"CreatedBy": "AniViRus Productions",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.1"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=416835",
+	"LocalizationTargets": [
+		{
+			"Name": "Thorium",
+			"LoadingPolicy": "Always"
+		}
+	]
+}
