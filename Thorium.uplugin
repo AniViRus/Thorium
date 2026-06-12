@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
+	"VersionName": "1.1.2",
 	"FriendlyName": "Thorium",
 	"Description": "Adds new Thorium resource used for alternative simple nuclear power generation",
 	"Category": "Modding",
@@ -27,7 +27,7 @@
 			"SemVersion": "^2.0.0-pre.1"
 		}
 	],
-	"SemVersion": "1.1.1",
+	"SemVersion": "1.1.2",
 	"GameVersion": ">=491125",
 	"LocalizationTargets": [
 		{
